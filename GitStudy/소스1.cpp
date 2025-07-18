@@ -1,5 +1,5 @@
 
 void print()
 {
-	"zzzzzzzz"
+	"zzzzzzzz";
 }
